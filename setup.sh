@@ -42,7 +42,9 @@ trap 'int_handler' INT
            sudo apt-get update && sudo apt install -y python3-pip xclip lolcat figlet && python3 -m pip install --upgrade colorama;;
 
            2) echo
-           apt-get update && apt install -y python3-pip xclip lolcat figlet && python3 -m pip install --upgrade colorama;;
+           apt-get update
+           apt install -y python3-pip xclip lolcat figlet
+           python3 -m pip install --upgrade colorama;;
 
 esac
 
