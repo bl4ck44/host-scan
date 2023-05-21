@@ -34,3 +34,15 @@ bash setup.sh
 
 python scan.py
 ```
+
+<br>
+
+<p align="center">
+<img src="Img/muestra1.png">
+</p>
+
+<br>
+
+<p align="center">
+<img src="Img/muestra2.jpg">
+</p>
