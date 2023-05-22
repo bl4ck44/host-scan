@@ -46,7 +46,7 @@ trap 'int_handler' INT
            apt-get update
            pip install xclip 
            pip install lolcat 
-           pip install figlet
+           pkg install figlet
            pip install colorama
            sleep 1.5;;
 
