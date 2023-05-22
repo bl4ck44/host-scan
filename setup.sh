@@ -32,6 +32,7 @@ trap 'int_handler' INT
    echo
    echo -e "   \033[1m [1] Instalar en Kali Linux y Parrot OS \033[0m"
    echo -e "   \033[1m [2] Instalar en Termux \033[0m"
+   echo -e "   \033[1m [3] Salir \033[0m"
    echo
 
    read -p $'\033[1m [+] Seleccione una opción: \033[0m' opcion
@@ -44,7 +45,13 @@ trap 'int_handler' INT
            2) echo
            apt-get update
            apt install -y python3-pip xclip lolcat figlet
-           python3 -m pip install --upgrade colorama;;
+           python3 -m pip install --upgrade colorama
+           sleep 1.5;;
+
+           3) echo
+           clear
+           echo -e "\033[1m [+] Adios\033[0m"
+           exit;;
 
 esac
 
