@@ -44,7 +44,8 @@ trap 'int_handler' INT
 
            2) echo
            apt-get update
-           pip install xclip 
+           pkg install x11-repo
+           pkg install xclip 
            pip install lolcat 
            pkg install figlet
            pip install colorama
