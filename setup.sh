@@ -54,6 +54,7 @@ trap 'int_handler' INT
            3) echo
            clear
            echo -e "\033[1m [+] Adios\033[0m"
+           echo
            exit;;
 
 esac

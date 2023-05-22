@@ -46,3 +46,9 @@ python scan.py
 <p align="center">
 <img src="Img/muestra2.jpg">
 </p>
+
+<br>
+
+<p align="center">
+<img src="Img/muestra3.png">
+</p>
