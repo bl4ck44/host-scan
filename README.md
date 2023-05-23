@@ -4,7 +4,7 @@
 <img src="Logotipo.png">
 </p>
 
-Este script se basa en una implementación eficiente y versátil, que permite a los usuarios detectar qué puertos están abiertos en un sistema remoto. Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
+Este script se basa en una implementación eficiente y versátil, que permite a los usuarios detectar qué puertos están abiertos evadiendo el firewall de un sistema remoto. Con este script, los usuarios pueden realizar rápidamente un escaneo exhaustivo de los puertos de una IP.
 
 <br>
 
